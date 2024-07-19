@@ -1,0 +1,11 @@
+[
+    {
+        "text": "def add(a, b):\n    return a + b\n"
+    },
+    {
+        "text": "class MyClass:\n    def __init__(self, value):\n        self.value = value\n"
+    },
+    {
+        "text": "def multiply(x, y):\n    return x * y\n"
+    }
+]
